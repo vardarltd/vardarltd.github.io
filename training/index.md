@@ -3,6 +3,7 @@ layout: page
 title: Eğitimler
 permalink: /training/
 onMenu: true
+order: 3
 ---
 <ul >
   {% for page in site.pages %}

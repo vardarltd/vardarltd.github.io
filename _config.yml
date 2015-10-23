@@ -9,6 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.vardar.biz.tr" # the base hostname & protocol for your site
 twitter_username: umitvardar
 github_username:  vardaru
+facebook_link: vardarltd
 
 # Build settings
 markdown: kramdown

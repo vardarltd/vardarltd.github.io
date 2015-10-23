@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Çözümlerimiz
+title: Ürünler
 permalink: /products/
 onMenu: true
+order: 1
 ---
 
 {% for page in site.pages %}

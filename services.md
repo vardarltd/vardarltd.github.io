@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Hizmetlerimiz
+title: Hizmetler
 permalink: /services/
 onMenu: true
+order: 2
 ---
 
 ## Proje Yönetimi
