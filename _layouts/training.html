@@ -4,10 +4,10 @@ layout: default
 <div class="post">
 
 <h3 >Eğitimler</h3>
-<ul >&nbsp;●&nbsp;
+<ul >&nbsp;●
   {% for page in site.pages %}
     {% if page.type == 'training' %}
-    <li style="display: inline;"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>&nbsp;●&nbsp;
+    <li style="display: inline;"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>&nbsp;●
     {% endif %}
   {% endfor %}
 </ul>
