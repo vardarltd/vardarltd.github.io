@@ -31,12 +31,7 @@ type: product
 <iframe allowfullscreen="" src="http://www.youtube.com/embed/ldHCuifpEdE" frameborder="0" height="200"></iframe>
 <iframe allowfullscreen="" src="http://www.youtube.com/embed/6vcwPRIqMmU" frameborder="0" height="200"></iframe>
 
-{% image_set images/aw %}
-
-<!-- {% gallery aw %}
-aw/aw1.png
-aw/aw2.png
-{% endgallery %} -->
+<!-- {% image_set images/aw %} -->
 
 <!-- ![screenshot1](/images/aw1.png)
 ![screenshot2](/images/aw2.png)
