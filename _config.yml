@@ -2,13 +2,13 @@
 title: Vardar Yazılım
 email: info@vardar.biz.tr
 description: >
-  Süreç, Proses, yönetim, bpm, bpmn, bpmn2, süreç yönetim sistemi,
-  alfresco, doküman yönetim sistemi, document management system,
-  activworks, bam, kpi, süreç danışmanlığı, süreç analiz
+  Süreç yönetim sistemi, activworks, bam, bpmn, kpi, süreç danışmanlığı,
+  süreç analiz, java, maven, spring, vaadin, activiti, alfresco,
+  doküman yönetim sistemi, ayna, nirengi, tagtakip, avaz
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.vardar.biz.tr" # the base hostname & protocol for your site
 twitter_username: umitvardar
-github_username:  vardaru
+github_username:  vardarltd
 facebook_link: vardarltd
 
 # Build settings
