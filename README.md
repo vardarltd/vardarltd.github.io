@@ -21,4 +21,5 @@ git add -A && git commit # commit output to master
 
 git push origin master # push master
 git push origin source # push source
+rsync -vzrt --delete * root@vardar.biz.tr:/var/www/ # push to site
 ```
